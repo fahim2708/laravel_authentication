@@ -1,3 +1,5 @@
+### Outline
+
 1. Laravel Authentication
 2. Laravel 11
 3. Email Verification
